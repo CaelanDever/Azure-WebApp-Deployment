@@ -351,7 +351,7 @@ Verifying deployment ensures everything is running correctly. The URL is publicl
 
 # Summary and Next Steps
 
-What You Did
+What You Did:
 
 Created a Resource Group: A container to hold your Azure resources.
 
@@ -364,7 +364,7 @@ Deployed a Static Site: Learned how to quickly push content to Azure.
 Verified Deployment: Confirmed your site is live.
 ---
 
-What You Learned
+What You Learned:
 
 Azure Portal Navigation: You explored the main tools and how to create/manage resources in Azure.
 
